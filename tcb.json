@@ -1,0 +1,11 @@
+{
+  "path": {
+    "functions": "./server/cloud-functions"
+  },
+  "proxy": "http://localhost:3000/",
+  "https_proxy": "",
+  "mpappid": "wxa863a187d6f2a42b",
+  "env": "zui0088763",
+  "secretid": "HE2006191401371543",
+  "secretkey": "8020d1ec41f64e66bd022de477680f69"
+}
